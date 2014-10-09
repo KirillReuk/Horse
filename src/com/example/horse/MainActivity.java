@@ -84,6 +84,8 @@ public class MainActivity extends Activity{
         	rawList[i] = rawTypedArray.getString(i);
         }
         rawTypedArray.recycle();
+        
+        refreshPhrasesList();
     }
 
     private class DrawerItemClickListener implements ListView.OnItemClickListener {
