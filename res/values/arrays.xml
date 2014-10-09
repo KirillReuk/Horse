@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classes_array">
+        <item>Scout</item>
+        <item>Soldier</item>
+        <item>Pyro</item>
+        <item>Demo</item>
+        <item>Heavy</item>
+        <item>Engie</item>
+        <item>Medic</item>
+        <item>Sniper</item>
+        <item>Spy</item>
+    </string-array>
+    
+    <string-array name="commands_array">
+        <item>All</item>
+        <item>Yes</item>
+        <item>No</item>
+        <item>Thanks</item>
+    </string-array>
+
+	<string-array name="phrases_array">
+		<item>scout_yes_Yeah!_01</item>
+		<item>scout_yes_Yeah, gotcha!_02</item>
+		<item>scout_no_Uh, no._01</item>
+		<item>scout_no_No!_02</item>
+		<item>scout_thanks_Thanks, pally_01</item>
+		<item>scout_thanks_Yeah, yeah, thanks_02</item>
+		
+		<item>soldier_yes_Affirmative!_01</item>
+		<item>soldier_yes_Sir, yes, sir!_02</item>
+		<item>soldier_no_Negatory!_01</item>
+		<item>soldier_no_No, sir!_02</item>
+		<item>soldier_thanks_Thanks!_01</item>
+		
+		<item>pyro_yes_Uh-huh_01</item>
+		<item>pyro_no_No_01</item>
+		<item>pyro_thanks_Thank you_01</item>
+		
+		<item>demoman_yes_Aye_01</item>
+		<item>demoman_yes_Yeah_02</item>
+		<item>demoman_yes_Yes_03</item>
+		<item>demoman_no_No!_01</item>
+		<item>demoman_no_Nah!_02</item>
+		<item>demoman_thanks_Thanks, mate_01</item>
+		<item>demoman_thanks_Aye, thanks_02</item>
+		
+		<item>heavy_yes_Da_01</item>
+		<item>heavy_yes_Yes_02</item>
+		<item>heavy_yes_Very well_03</item>
+		<item>heavy_no_Niet!_01</item>
+		<item>heavy_no_No!_02</item>
+		<item>heavy_no_Is not possible!_03</item>
+		<item>heavy_thanks_Thank you!_01</item>
+		<item>heavy_thanks_Many thanks!_02</item>
+		
+		<item>engineer_yes_Yeah!_01</item>
+		<item>engineer_yes_Heck yes_02</item>
+		<item>engineer_yes_Alrighty then_03</item>
+		<item>engineer_no_Nope_01</item>
+		<item>engineer_no_Hah_02</item>
+		<item>engineer_no_Heck no_03</item>
+		<item>engineer_thanks_Much obliged_01</item>
+		
+		<item>medic_yes_Ja_01</item>
+		<item>medic_yes_Jawohl_02</item>
+		<item>medic_yes_Yes_03</item>
+		<item>medic_no_Nein!_01</item>
+		<item>medic_no_No!_02</item>
+		<item>medic_no_Nichts da!_03</item>
+		<item>medic_thanks_Thank you_01</item>
+		<item>medic_thanks_Danke!_02</item>
+		
+		<item>sniper_yes_Yeah_01</item>
+		<item>sniper_yes_Okay_02</item>
+		<item>sniper_yes_Okay, mate_03</item>
+		<item>sniper_no_No!_01</item>
+		<item>sniper_no_Nah_02</item>
+		<item>sniper_thanks_Thanks, mate_01</item>
+		<item>sniper_thanks_Appreciated_02</item>
+		
+		<item>spy_yes_Yes_01</item>
+		<item>spy_yes_But of course_02</item>
+		<item>spy_yes_Of course_03</item>
+		<item>spy_no_I think not_01</item>
+		<item>spy_no_No_02</item>
+		<item>spy_no_Im afraid not_03</item>
+		<item>spy_thanks_Thank you_01</item>
+		<item>spy_thanks_Many thanks_02</item>
+	</string-array>		 
+		 
+</resources>
