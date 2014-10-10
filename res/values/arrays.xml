@@ -26,8 +26,8 @@
 		<item>scout_no_No!_02</item>
 		<item>scout_thanks_Thanks, pally_01</item>
 		<item>scout_thanks_Yeah, yeah, thanks_02</item>
-		<item>scout_thanks_Thanks, pally_03</item>
-		<item>scout_thanks_Yeah, yeah, thanks_04</item>
+		<item>scout_thanks_Way to go, pally_03</item>
+		<item>scout_thanks_We got em, we got em_04</item>
 		
 		
 		<item>soldier_yes_Affirmative!_01</item>
@@ -48,7 +48,7 @@
 		<item>demoman_thanks_Thanks, mate_01</item>
 		<item>demoman_thanks_Aye, thanks_02</item>
 		<item>demoman_thanks_We did it, mate_03</item>
-		<item>demoman_thanks_I didnt need your help, you know_04</item>
+		<item>demoman_thanks_I didn t need your help, you know_04</item>
 		
 		<item>heavy_yes_Da_01</item>
 		<item>heavy_yes_Yes_02</item>
@@ -78,8 +78,8 @@
 		<item>medic_no_Nichts da!_03</item>
 		<item>medic_thanks_Thank you_01</item>
 		<item>medic_thanks_Danke!_02</item>
-		<item>medic_thanks_Danke, comrade!_01</item>
-		<item>medic_thanks_We did it, comrade!_02</item>
+		<item>medic_thanks_Danke, comrade!_03</item>
+		<item>medic_thanks_We did it, comrade!_04</item>
 		
 		<item>sniper_yes_Yeah_01</item>
 		<item>sniper_yes_Okay_02</item>
@@ -95,7 +95,7 @@
 		<item>spy_yes_Of course_03</item>
 		<item>spy_no_I think not_01</item>
 		<item>spy_no_No_02</item>
-		<item>spy_no_Im afraid not_03</item>
+		<item>spy_no_I m afraid not_03</item>
 		<item>spy_thanks_Thank you_01</item>
 		<item>spy_thanks_Many thanks_02</item>
 		<item>spy_thanks_I appreciate your help_03</item>
