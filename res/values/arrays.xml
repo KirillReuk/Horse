@@ -26,6 +26,9 @@
 		<item>scout_no_No!_02</item>
 		<item>scout_thanks_Thanks, pally_01</item>
 		<item>scout_thanks_Yeah, yeah, thanks_02</item>
+		<item>scout_thanks_Thanks, pally_03</item>
+		<item>scout_thanks_Yeah, yeah, thanks_04</item>
+		
 		
 		<item>soldier_yes_Affirmative!_01</item>
 		<item>soldier_yes_Sir, yes, sir!_02</item>
@@ -44,6 +47,8 @@
 		<item>demoman_no_Nah!_02</item>
 		<item>demoman_thanks_Thanks, mate_01</item>
 		<item>demoman_thanks_Aye, thanks_02</item>
+		<item>demoman_thanks_We did it, mate_03</item>
+		<item>demoman_thanks_I didnt need your help, you know_04</item>
 		
 		<item>heavy_yes_Da_01</item>
 		<item>heavy_yes_Yes_02</item>
@@ -53,6 +58,7 @@
 		<item>heavy_no_Is not possible!_03</item>
 		<item>heavy_thanks_Thank you!_01</item>
 		<item>heavy_thanks_Many thanks!_02</item>
+		<item>heavy_thanks_We make good team_03</item>
 		
 		<item>engineer_yes_Yeah!_01</item>
 		<item>engineer_yes_Heck yes_02</item>
@@ -61,6 +67,8 @@
 		<item>engineer_no_Hah_02</item>
 		<item>engineer_no_Heck no_03</item>
 		<item>engineer_thanks_Much obliged_01</item>
+		<item>engineer_thanks_Nice going, pardner_02</item>
+		<item>engineer_thanks_Thanks, mister_03</item>
 		
 		<item>medic_yes_Ja_01</item>
 		<item>medic_yes_Jawohl_02</item>
@@ -70,6 +78,8 @@
 		<item>medic_no_Nichts da!_03</item>
 		<item>medic_thanks_Thank you_01</item>
 		<item>medic_thanks_Danke!_02</item>
+		<item>medic_thanks_Danke, comrade!_01</item>
+		<item>medic_thanks_We did it, comrade!_02</item>
 		
 		<item>sniper_yes_Yeah_01</item>
 		<item>sniper_yes_Okay_02</item>
@@ -78,6 +88,7 @@
 		<item>sniper_no_Nah_02</item>
 		<item>sniper_thanks_Thanks, mate_01</item>
 		<item>sniper_thanks_Appreciated_02</item>
+		<item>sniper_thanks_Appreciated, mate_03</item>
 		
 		<item>spy_yes_Yes_01</item>
 		<item>spy_yes_But of course_02</item>
@@ -87,6 +98,8 @@
 		<item>spy_no_Im afraid not_03</item>
 		<item>spy_thanks_Thank you_01</item>
 		<item>spy_thanks_Many thanks_02</item>
+		<item>spy_thanks_I appreciate your help_03</item>
+		<item>spy_thanks_My appreciation, amigo_04</item>
 	</string-array>		 
 		 
 </resources>
