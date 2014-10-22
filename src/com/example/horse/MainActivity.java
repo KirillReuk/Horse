@@ -118,11 +118,11 @@ public class MainActivity extends Activity{
     	int commandId = rightDrawerList.getCheckedItemPosition();
     	
     	TypedArray typedArrayClasses = res.obtainTypedArray(R.array.classes_array);
-    	TypedArray typedArrayCommands = res.obtainTypedArray(R.array.commands_array);
+    	TypedArray typedArrayPrefixes = res.obtainTypedArray(R.array.prefixes_array);
     	String className = typedArrayClasses.getString(classId).toLowerCase(Locale.getDefault());
-    	String commandName = typedArrayCommands.getString(commandId).toLowerCase(Locale.getDefault());
+    	String commandName = typedArrayPrefixes.getString(commandId);
     	typedArrayClasses.recycle();
-    	typedArrayCommands.recycle();
+    	typedArrayPrefixes.recycle();
     	
     	ArrayList<String> phraseList = new ArrayList<String>();
     	String comparingPrefix = className;
@@ -131,9 +131,8 @@ public class MainActivity extends Activity{
     	
     	if (commandId > 0)
     	{
-    		comparingPrefix += "_" + commandName;
+    		comparingPrefix += "_" + commandName.replaceAll(" ", "");
     	}    	
-    	
         int index = 0;
         for (String str : rawList)
         {
@@ -195,13 +194,7 @@ public class MainActivity extends Activity{
     	mediaPlayer = MediaPlayer.create(this, srcid);
     	mediaPlayer.start();
     }
-    /*
-    private TypedArray getTypedFromTyped(TypedArray ta, long x)    {
-    	Resources res = getResources();
-        int huid = ta.getResourceId((int)x, 0);
-        return res.obtainTypedArray(huid);
-    }
-    */
+    
     private void ToastThat(CharSequence text){
     	Context context = getApplicationContext();
     	int duration = Toast.LENGTH_SHORT;
