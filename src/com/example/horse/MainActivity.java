@@ -117,8 +117,8 @@ public class MainActivity extends Activity{
     	int classId = leftDrawerList.getCheckedItemPosition();
     	int commandId = rightDrawerList.getCheckedItemPosition();
     	
-    	TypedArray typedArrayClasses = res.obtainTypedArray(R.array.classes_array);
-    	TypedArray typedArrayPrefixes = res.obtainTypedArray(R.array.prefixes_array);
+    	TypedArray typedArrayClasses = res.obtainTypedArray(R.array.class_prefixes_array);
+    	TypedArray typedArrayPrefixes = res.obtainTypedArray(R.array.command_prefixes_array);
     	String className = typedArrayClasses.getString(classId).toLowerCase(Locale.getDefault());
     	String commandName = typedArrayPrefixes.getString(commandId);
     	typedArrayClasses.recycle();

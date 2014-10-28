@@ -20,12 +20,24 @@
         <item>Go go go</item>
     </string-array>
     
-    <string-array name="prefixes_array">
+    <string-array name="command_prefixes_array">
         <item></item>
         <item>yes</item>
         <item>no</item>
         <item>thanks</item>
         <item>go</item>
+    </string-array>
+    
+    <string-array name="class_prefixes_array">
+        <item>scout</item>
+        <item>soldier</item>
+        <item>pyro</item>
+        <item>demoman</item>
+        <item>heavy</item>
+        <item>engineer</item>
+        <item>medic</item>
+        <item>sniper</item>
+        <item>spy</item>
     </string-array>
 
 	<string-array name="phrases_array">
@@ -47,6 +59,7 @@
 		<item>soldier_yes_Sir, yes, sir!_02</item>
 		<item>soldier_no_Negatory!_01</item>
 		<item>soldier_no_No, sir!_02</item>
+		<item>soldier_thanks_Thanks!_01</item>
 		<item>soldier_go_Go go go! Charge!_01</item>
 		<item>soldier_go_Move out!_02</item>
 		<item>soldier_go_Let s go!_03</item>
