@@ -18,6 +18,7 @@
         <item>No</item>
         <item>Thanks</item>
         <item>Go go go</item>
+        <item>Help!</item>
     </string-array>
     
     <string-array name="command_prefixes_array">
@@ -26,6 +27,7 @@
         <item>no</item>
         <item>thanks</item>
         <item>go</item>
+        <item>helpme</item>
     </string-array>
     
     <string-array name="class_prefixes_array">
@@ -53,7 +55,10 @@
 		<item>scout_go_Let s go!_02</item>
 		<item>scout_go_Go go go!_03</item>
 		<item>scout_go_Would you just let s go?_04</item>
-		
+		<item>scout_helpme_Help!_01</item>
+		<item>scout_helpme_Yo, a little help here?_02</item>
+		<item>scout_helpme_I m dying here!_03</item>
+		<item>scout_helpme_Uh, a little help?_04</item>
 		
 		<item>soldier_yes_Affirmative!_01</item>
 		<item>soldier_yes_Sir, yes, sir!_02</item>
@@ -63,12 +68,15 @@
 		<item>soldier_go_Go go go! Charge!_01</item>
 		<item>soldier_go_Move out!_02</item>
 		<item>soldier_go_Let s go!_03</item>
-		
-		
+		<item>soldier_helpme_I need some help!_01</item>
+		<item>soldier_helpme_Need some help here!_02</item>
+		<item>soldier_helpme_Heeelp!_03</item>
+				
 		<item>pyro_yes_Uh-huh_01</item>
 		<item>pyro_no_No_01</item>
 		<item>pyro_thanks_Thank you_01</item>
 		<item>pyro_go_Go go go!_01</item>
+		<item>pyro_helpme_Help me!_01</item>
 		
 		<item>demoman_yes_Aye_01</item>
 		<item>demoman_yes_Yeah_02</item>
@@ -82,6 +90,9 @@
 		<item>demoman_go_Go!_01</item>
 		<item>demoman_go_Move it, lads!_02</item>
 		<item>demoman_go_Get going!_03</item>
+		<item>demoman_helpme_Help!_01</item>
+		<item>demoman_helpme_Help me!_02</item>
+		<item>demoman_helpme_Aye, give us a hand!_03</item>
 		
 		<item>heavy_yes_Da_01</item>
 		<item>heavy_yes_Yes_02</item>
@@ -95,6 +106,9 @@
 		<item>heavy_go_Go, go, go!_01</item>
 		<item>heavy_go_Go!_02</item>
 		<item>heavy_go_Move!_03</item>
+		<item>heavy_helpme_Help!_01</item>
+		<item>heavy_helpme_Help now!_02</item>
+		<item>heavy_helpme_Help me!_03</item>
 		
 		<item>engineer_yes_Yeah!_01</item>
 		<item>engineer_yes_Heck yes_02</item>
@@ -108,6 +122,9 @@
 		<item>engineer_go_Get going!_01</item>
 		<item>engineer_go_Move em out!_02</item>
 		<item>engineer_go_Go-go-go_03</item>
+		<item>engineer_helpme_Help!_01</item>
+		<item>engineer_helpme_Help me!_02</item>
+		<item>engineer_helpme_I need some doggone help!_03</item>
 		
 		<item>medic_yes_Ja_01</item>
 		<item>medic_yes_Jawohl_02</item>
@@ -123,6 +140,9 @@
 		<item>medic_go_Schnell! Raus, raus!_02</item>
 		<item>medic_go_Move, schnell!_03</item>
 		<item>medic_go_Los weiter!_04</item>
+		<item>medic_helpme_Help!_01</item>
+		<item>medic_helpme_I require assistance!_02</item>
+		<item>medic_helpme_Assistance, bitte!_03</item>
 		
 		<item>sniper_yes_Yeah_01</item>
 		<item>sniper_yes_Okay_02</item>
@@ -135,6 +155,9 @@
 		<item>sniper_go_Get bloody going_01</item>
 		<item>sniper_go_Lets go, mates_02</item>
 		<item>sniper_go_Go, go, go!_03</item>
+		<item>sniper_helpme_Help!_01</item>
+		<item>sniper_helpme_Help me!_02</item>
+		<item>sniper_helpme_Need some help here!_03</item>
 		
 		<item>spy_yes_Yes_01</item>
 		<item>spy_yes_But of course_02</item>
@@ -149,6 +172,9 @@
 		<item>spy_go_Move_01</item>
 		<item>spy_go_Let us move_02</item>
 		<item>spy_go_Proceed!_03</item>
+		<item>spy_helpme_Help!_01</item>
+		<item>spy_helpme_Some assistance, please!_02</item>
+		<item>spy_helpme_I require assistance!_03</item>
 	</string-array>		 
 		 
 </resources>
